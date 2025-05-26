@@ -9,8 +9,7 @@ Current exploration on Large Language Models (LLMs) in creative generation focus
 3. We evaluate ten top LLMs, initially enhancing automated fiction evaluation through utilizing different LLMs with diverse prompt strategies, and provide valuable insights to enhance their capabilities based on a fine-grained analysis.
 
 ## Overview
-![image](https://github.com/wenqing-01/Fiction_Eval/blob/main/fig_overview.jpg)
-
+<img src="https://github.com/wenqing-01/Fiction_Eval/blob/main/fig_overview.jpg" alt="image" width="300"/>
 
 ## Citation
 Please cite our work if you find it useful.
