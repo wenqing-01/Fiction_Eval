@@ -14,6 +14,7 @@ Current exploration on Large Language Models (LLMs) in creative generation focus
 ## Citation
 Please cite our work if you find it useful.
 
+```bibtex
 @inproceedings{wang-etal-2025-towards-novel,
     title = "Towards A ``Novel'' Benchmark: Evaluating Literary Fiction with Large Language Models",
     author = "Wang, Wenqing  and
@@ -34,3 +35,4 @@ Please cite our work if you find it useful.
     pages = "21648--21673",
     ISBN = "979-8-89176-256-5"
 }
+```
